@@ -1,0 +1,8 @@
+@article{REPO150,
+    author = "Hu, Qinghua and Yu, Daren and Liu, Jinfu and Wu, Congxin",
+    journal = "Information Sciences",
+    number = "3577-3594",
+    title = "{Neighborhood rough set based heterogeneous feature subset selection}",
+    volume = "178",
+    year = "2008"
+}
